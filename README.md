@@ -1,0 +1,1 @@
+This project looks to building a machine learning model sourced from [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data) to predict with a 95% accuracy if given the medical features of a patient if it would be able to predict correcty that the patient has heart disease
